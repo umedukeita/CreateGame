@@ -1,0 +1,55 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2149 MB
+    Driver:   23.20.16.4973
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\展示品\ゲーム\作品\WiiTank\Tank_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.485 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.625900 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 12e4 -> priority: 1 
+  Thread -> id: 44b8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.638500 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 0.292300 ms (FindLiveObjects: 0.050700 ms CreateObjectMapping: 0.024000 ms MarkObjects: 0.202700 ms  DeleteObjects: 0.013900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.616600 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 1.703600 ms (FindLiveObjects: 0.276800 ms CreateObjectMapping: 0.077200 ms MarkObjects: 0.924100 ms  DeleteObjects: 0.413500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.422500 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 484.
+Total: 0.306700 ms (FindLiveObjects: 0.041300 ms CreateObjectMapping: 0.016800 ms MarkObjects: 0.234200 ms  DeleteObjects: 0.013600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.528500 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 484.
+Total: 0.656400 ms (FindLiveObjects: 0.121000 ms CreateObjectMapping: 0.048600 ms MarkObjects: 0.460200 ms  DeleteObjects: 0.023900 ms)
+
